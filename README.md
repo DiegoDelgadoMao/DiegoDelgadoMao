@@ -8,7 +8,7 @@ I'm Frontend developer, i love to create web applications 🎨, i like to learn 
 
 ## You can find me at 🌎
 
-- 🍂 Instagram [link](https://www.instagram.com/diegodelgadomao/)
+- 🍂 Instagram [link](https://www.instagram.com/diegodelgadomao.dev/)
 - 🗣️ Twitter [link](https://twitter.com/diegoDelgado_01)
 - 🔎 Linkedin [link](https://www.linkedin.com/in/diegodelgadomao/)
 
