@@ -20,8 +20,10 @@ I'm Frontend developer, i love to create web applications 🎨, i like to learn 
 
 ## My favorite projects 🛠️
 
-- [ogo](https://ogo-finanzas.netlify.app/) 💸
+- [Habit tracker](https://diegodelgadomao.github.io/habit-tracker/) 🎯
 - [Mi mercado](https://diegodelgadomao.github.io/mi-mercado-proyecto/) 🛒
+- [ogo](https://ogo-finanzas.netlify.app/) 💸
+
 
 ## My skills 🎯
 
