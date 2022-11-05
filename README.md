@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![banner](./banner.png)
+![banner](https://raw.githubusercontent.com/DiegoDelgadoMao/website/main/src/assets/banner.jpg)
 
 ## About me 🤓
 
